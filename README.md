@@ -22,4 +22,4 @@ The RFM Analysis will help the businesses to segment their customer base into di
 
 
 
-<img width="552" alt="RFM Analysis" src="https://user-images.githubusercontent.com/115426348/210186112-c99b8b5e-02cc-442d-96bc-b3883069200a.png">
+<img width="569" alt="RFM Analysis 2" src="https://user-images.githubusercontent.com/115426348/210186156-9bec9f3b-9d4d-41bf-bfae-d0db9e33de27.png">
